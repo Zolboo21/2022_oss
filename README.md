@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zolboo</h1>
 <h3 align="center">A passionate Smart IoT student from Mongolia</h3>
 
-- 🔭 I’m currently working on Capstone Design **Parking lot information system using Image recognition Recon**
+- 🔭 I’m currently working on Capstone Design **Parking lot information system using Image recognition**
 
 - 🌱 I’m currently learning **GCP, Embedded system, Flutter**
 
